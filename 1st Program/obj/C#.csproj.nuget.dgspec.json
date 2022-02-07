@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Web Design\\C#\\C#.csproj": {}
+    "G:\\Web Design\\C#\\1st Program\\C#.csproj": {}
   },
   "projects": {
-    "G:\\Web Design\\C#\\C#.csproj": {
+    "G:\\Web Design\\C#\\1st Program\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Web Design\\C#\\C#.csproj",
+        "projectUniqueName": "G:\\Web Design\\C#\\1st Program\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "G:\\Web Design\\C#\\C#.csproj",
+        "projectPath": "G:\\Web Design\\C#\\1st Program\\C#.csproj",
         "packagesPath": "C:\\Users\\HACKER\\.nuget\\packages\\",
-        "outputPath": "G:\\Web Design\\C#\\obj\\",
+        "outputPath": "G:\\Web Design\\C#\\1st Program\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HACKER\\AppData\\Roaming\\NuGet\\NuGet.Config"

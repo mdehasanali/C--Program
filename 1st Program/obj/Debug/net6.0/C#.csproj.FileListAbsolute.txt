@@ -1,0 +1,30 @@
+G:\Web Design\C#\obj\Debug\net6.0\C#.csproj.AssemblyReference.cache
+G:\Web Design\C#\obj\Debug\net6.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+G:\Web Design\C#\obj\Debug\net6.0\C#.AssemblyInfoInputs.cache
+G:\Web Design\C#\obj\Debug\net6.0\C#.AssemblyInfo.cs
+G:\Web Design\C#\obj\Debug\net6.0\C#.csproj.CoreCompileInputs.cache
+G:\Web Design\C#\bin\Debug\net6.0\C#.exe
+G:\Web Design\C#\bin\Debug\net6.0\C#.deps.json
+G:\Web Design\C#\bin\Debug\net6.0\C#.runtimeconfig.json
+G:\Web Design\C#\bin\Debug\net6.0\C#.dll
+G:\Web Design\C#\bin\Debug\net6.0\ref\C#.dll
+G:\Web Design\C#\bin\Debug\net6.0\C#.pdb
+G:\Web Design\C#\obj\Debug\net6.0\C#.dll
+G:\Web Design\C#\obj\Debug\net6.0\ref\C#.dll
+G:\Web Design\C#\obj\Debug\net6.0\C#.pdb
+G:\Web Design\C#\obj\Debug\net6.0\C#.genruntimeconfig.cache
+G:\Web Design\C#\1st Program\bin\Debug\net6.0\C#.exe
+G:\Web Design\C#\1st Program\bin\Debug\net6.0\C#.deps.json
+G:\Web Design\C#\1st Program\bin\Debug\net6.0\C#.runtimeconfig.json
+G:\Web Design\C#\1st Program\bin\Debug\net6.0\C#.dll
+G:\Web Design\C#\1st Program\bin\Debug\net6.0\ref\C#.dll
+G:\Web Design\C#\1st Program\bin\Debug\net6.0\C#.pdb
+G:\Web Design\C#\1st Program\obj\Debug\net6.0\C#.csproj.AssemblyReference.cache
+G:\Web Design\C#\1st Program\obj\Debug\net6.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+G:\Web Design\C#\1st Program\obj\Debug\net6.0\C#.AssemblyInfoInputs.cache
+G:\Web Design\C#\1st Program\obj\Debug\net6.0\C#.AssemblyInfo.cs
+G:\Web Design\C#\1st Program\obj\Debug\net6.0\C#.csproj.CoreCompileInputs.cache
+G:\Web Design\C#\1st Program\obj\Debug\net6.0\C#.dll
+G:\Web Design\C#\1st Program\obj\Debug\net6.0\ref\C#.dll
+G:\Web Design\C#\1st Program\obj\Debug\net6.0\C#.pdb
+G:\Web Design\C#\1st Program\obj\Debug\net6.0\C#.genruntimeconfig.cache
