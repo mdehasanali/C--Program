@@ -12,7 +12,7 @@ namespace Farenheight
 
             farenheight = ((number * 9) / 5) + 32;
 
-            System.Console.WriteLine("Fahrenheit value is:- " + f);
+            System.Console.WriteLine("Fahrenheit value is:- " + farenheight);
         }
     }
 }
