@@ -24,12 +24,11 @@ namespace CSharp_Shell {
             if (d > 0) {
                 x1 = (-b + Math.Sqrt(d)) / (2 * a);
                 x2 = (-b - Math.Sqrt(d)) / (2 * a);
-                Console.WriteLine("The x1 Number is :- "
-                    x1);
-                Console.WriteLine("The x1 Number is :- "
-                    x2);
+                Console.WriteLine("The x1 Number is :- ", x1);
+                Console.WriteLine("The x1 Number is :- ", x2);
             } else if (d == 0) {
-                x = (-b / (2 * a))
+                x1 = (-b / (2 * a));
+                Console.WriteLine("The x1 Number is :- ", x1);
             } else {
                 Console.WriteLine("Not posiable");
             }
