@@ -10,12 +10,26 @@ namespace multiple_factorials
     {
         static void Main(string[] args)
         {
-            int num, n;
+            int userInput;
             System.Console.WriteLine("Factorials Number");
             System.Console.WriteLine("=====================");
             System.Console.WriteLine("Enter Number");
-            num = Convert.ToInt32(Console.ReadLine());
+            userInput = Convert.ToInt32(Console.ReadLine());
 
+            int num = 1;
+
+            for (int i = userInput ; i >=1; i--)
+            {
+                num = num * i;
+            }
+            System.Console.WriteLine("Factoral Number :- " + num);
+
+
+
+
+
+
+            /*
             while (num > 0)
             {
                 n = num;
@@ -27,6 +41,7 @@ namespace multiple_factorials
                 System.Console.WriteLine("factorials {0} = {1}", num, n);
 
             }
+            */
         }
     }
 }
